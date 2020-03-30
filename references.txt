@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/
+https://www.geeksforgeeks.org/thread-pools-java/
+https://www.youtube.com/watch?v=vCDrGJWqR8w/
